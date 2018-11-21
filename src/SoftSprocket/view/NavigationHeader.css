@@ -1,0 +1,24 @@
+
+
+.fixed-navigation-header {
+  overflow: hidden;
+  background-color: var(--main-background-color);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navigation-button {
+  float: left;
+  display: block;
+  color: var(--main-text-color);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navigation-button:hover {
+  background: var(--main-hover-background);
+  color: var(--main-hover-color);
+}

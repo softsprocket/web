@@ -1,0 +1,5 @@
+
+.bottom-up-page {
+  bottom: 0;
+  transition: bottom 5s cubic-bezier(0, .5, .5, 1);
+}

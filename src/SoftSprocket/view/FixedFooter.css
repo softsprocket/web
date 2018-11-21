@@ -1,0 +1,11 @@
+
+.fixed-footer {
+  overflow: hidden;
+  background-color: var(--main-background-color);
+  color: var(--main-text-color);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
